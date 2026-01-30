@@ -5,6 +5,7 @@
 ### 🔗 Languages
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,12 +16,13 @@
 
 ### Databases
 ![SQL Server](https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools
+### Tools & Design
 ![Java Swing](https://img.shields.io/badge/JAVA_SWING-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX_DESIGN-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 # Featured Project
 
