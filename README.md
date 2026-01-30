@@ -1,49 +1,42 @@
-<h1 align="center">Hello World, I'm [Tên của bạn]! 👨‍💻</h1>
-<h3 align="center">Bridging the gap between <i>Logic</i> and <i>Empathy</i></h3>
+# Hi, I'm Lekingna16 👋
 
-<p align="center">
-  <em>"Xây dựng hệ thống mạnh mẽ ở Backend, mang lại trải nghiệm mượt mà ở Frontend."</em>
-</p>
+### 💻 Java Developer & Web Enthusiast
 
----
-
-### 💻 My Coding Journey
-
-| **Backend & Core** | **Frontend & UX** | **Database** |
-| :--- | :--- | :--- |
-| ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) **(Main focus)** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-| System Architecture | Design Thinking | Schema Design |
+Mình là sinh viên IT đang học tại trường Đại học Công nghiệp thành phố Hồ Chí Minh.
 
 ---
 
-### 📂 Highlights
+### 🛠️ Kỹ năng chuyên môn
 
-**🎯 FocusMate (UX Project)**
-> Ứng dụng quản lý lịch trình sinh viên. Mình đã thực hiện từ khâu User Research (Empathy maps, Personas) đến thiết kế UI và Journey maps.
+#### ☕ Backend & Desktop Application
+Đây là thế mạnh chính của mình, với kinh nghiệm xây dựng ứng dụng quản lý phức tạp.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-**💊 Pharmacy Manager (Java)**
-> Hệ thống quản lý dược phẩm với kiến trúc Layered Architecture (DAO/BUS), xử lý nghiệp vụ phức tạp về kho vận và doanh thu.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_CUA_BAN]&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_CUA_BAN]&layout=compact&theme=dracula&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🎯 2026 Goals
-- [ ] Master **Spring Boot** & Microservices.
-- [ ] Xây dựng 1 ứng dụng Full-stack hoàn chỉnh với **Next.js** & **Java Backend**.
-- [ ] Secure a **Backend Internship** position by August 2026! 🚀
+#### 🎨 Frontend & Web Modernization
+Mình sử dụng các công nghệ này để xây dựng giao diện người dùng tương tác cao.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-<p align="center">
-  <b>Let's connect!</b><br/>
-  <a href="LINK_LINKEDIN">LinkedIn</a> • <a href="LINK_BLOG">Blog</a>
-</p>
+### 🚀 Dự án tiêu biểu
+
+1.  **Pharmacy Management System** (Java Swing, SQL)
+    * Hệ thống quản lý nhà thuốc desktop app với kiến trúc Layered (DAO/BUS).
+    * Xử lý Multi-threading và quản lý kho theo lô (Batch management).
+
+2.  **Modern Web Application** (Next.js, React)
+    * Ứng dụng web Single Page Application (SPA) tối ưu UX.
+    * Sử dụng Bootstrap để thiết kế giao diện Responsive.
+
+---
+
+### 📫 Liên hệ
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](LINK_LINKEDIN_CUA_BAN)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:EMAIL_CUA_BAN)
