@@ -24,7 +24,16 @@
 
 # Featured Project
 
+### Family Mart Management System (Java Swing)
 
+A desktop application designed to streamline daily operations for convenience stores, ensuring fast checkout and accurate inventory tracking.
+
+* **Tech:** Java, Java Swing, SQL Server, JDBC.
+* **Key Features:**
+    * **Point of Sale (POS):** Fast transaction processing with barcode scanning support and bill calculation.
+    * **Inventory Management:** Real-time tracking of product stock, import/export history, and expiration date monitoring.
+    * **Statistical Reporting:** Auto-generate daily/monthly revenue reports and identify best-selling items.
+    * **Staff Management:** Manage employee shifts, roles, and basic payroll.
 
 ### 📫 Liên hệ
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%AA-th%E1%BB%8B-kim-ng%C3%A2n-658437341/)
