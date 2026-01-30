@@ -27,5 +27,5 @@
 
 
 ### 📫 Liên hệ
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](LINK_LINKEDIN_CUA_BAN)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:EMAIL_CUA_BAN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%AA-th%E1%BB%8B-kim-ng%C3%A2n-658437341/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kimngan010062005@gmail.com)
